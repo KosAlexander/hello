@@ -2,3 +2,4 @@
 Другая строка
 
 Hello, GIT!!!
+Hello? git cherry-pick!
